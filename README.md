@@ -27,3 +27,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="Architecture-Youtube.png">
+
+
+## Output
+<img src="dashboard_for_youtube.png">
+
